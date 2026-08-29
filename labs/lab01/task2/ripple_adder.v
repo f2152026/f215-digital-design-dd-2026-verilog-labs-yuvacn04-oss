@@ -47,7 +47,7 @@ FA_Gate FA2(
 
 FA_Gate FA3(
   .a(a[3]),
-  .b(b[2]),
+  .b(b[3]),
   .cin(c3),
   .sum(sum[3]),
   .cout(cout)
